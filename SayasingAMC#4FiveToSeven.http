@@ -1,0 +1,6 @@
+@SayasingAMC_4FiveToSeven_HostAddress = http://localhost:5236
+
+GET {{SayasingAMC_4FiveToSeven_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
