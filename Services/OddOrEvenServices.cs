@@ -7,7 +7,7 @@ namespace SayasingAMC_4FiveToSeven.Services
 {
     public class OddOrEvenService
     {
-        public string DetermineOddOrEven(int number)
+        public string OddOrEven(int number)
         {
             string result;
 
@@ -19,7 +19,7 @@ namespace SayasingAMC_4FiveToSeven.Services
             {
                 result = "odd";
             }
-            
+
             return $"The number {number} is {result}.";
         }
     }
