@@ -9,7 +9,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<MadLibServices>();
-builder.Services.AddScoped<OddOrEvenServices>();
+builder.Services.AddScoped<OddOrEvenService>();
 builder.Services.AddScoped<ReverseItAlphaServices>();
 builder.Services.AddScoped<ReverseItNumbServices>();
 
