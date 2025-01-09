@@ -19,7 +19,7 @@ namespace SayasingAMC_4FiveToSeven.Controllers
         
         [HttpPost]
         [Route("OddOrEven/{EnterNumber}")]
-        public string OddOrEven(int EnterNumber)
+        public string OddOrEven(string EnterNumber)
         {
             return _oddOrEvenServices.OddOrEven(EnterNumber);
         }
