@@ -1,2 +1,2 @@
 
-Peer Review:
+Peer Review: Hassan Sajid - MadLib is working well, what I would suggest is to remove the dying part and to add 2 more inputs to match the 10 inputs from the original madlib. The reverse it numerical and alphanumeric both work well. It has a clear parameter which tells you what you need to do as well. Your odd and even is working as intended and the output is as the assingment described. Good job.
